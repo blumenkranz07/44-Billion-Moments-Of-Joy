@@ -24,8 +24,9 @@ With **AI-driven object detection and language models**, this system observes th
 
 ## **Project Showcase**
 ### Videos
-[![Watch the Demo](videos/demo-thumbnail.png)](videos/demo.mp4)
-[![Watch the Demo](videos/demo-thumbnail.png)](videos/demo.mp4)
+<iframe width="800" height="450" src="https://www.youtube.com/embed/XGy7Wgfyjng" frameborder="0" allowfullscreen>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/nOKK4MIoMmY" frameborder="0" allowfullscreen>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/N2HGQNHiEk0" frameborder="0" allowfullscreen>
 
 ## **Try It Out**
 Coming soon! Stay tuned for updates.
