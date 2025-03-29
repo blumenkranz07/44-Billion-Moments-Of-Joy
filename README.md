@@ -1,4 +1,4 @@
-# **44 Billion Moments of Joy**
+# 44 Billion Moments of Joy
 
 **A real-time Fluxus score generator for Apple Vision Pro**
 
@@ -25,7 +25,9 @@ With **AI-driven object detection and language models**, this system observes th
 ## **Project Showcase**
 ### Videos
 <iframe width="800" height="450" src="https://www.youtube.com/embed/XGy7Wgfyjng" frameborder="0" allowfullscreen>
+  
 <iframe width="800" height="450" src="https://www.youtube.com/embed/nOKK4MIoMmY" frameborder="0" allowfullscreen>
+  
 <iframe width="800" height="450" src="https://www.youtube.com/embed/N2HGQNHiEk0" frameborder="0" allowfullscreen>
 
 ## **Try It Out**
